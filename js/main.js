@@ -5,6 +5,13 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
+
+{
+  "scripts": {
+    "start": "serve -s"
+  }
+}
+
 (function() {
   "use strict";
 
